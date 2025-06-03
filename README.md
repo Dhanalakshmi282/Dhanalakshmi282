@@ -8,6 +8,16 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Tring AI](https://tringlabs.ai/)
+  
+- 🌱 I’m currently learning **Nest.js with Prisma ORM**
+
+- 👯 I have worked on [Day-Planner](https://play.google.com/store/apps/details?id=com.whitemastery.day_planner.day_planner)
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dhanalakshmi-murugan/](https://www.linkedin.com/in/dhanalakshmi-murugan/)
+
+- 💬 Ask me about **Node js, Nuxt-Nitro framework, Nest js, TypeScript, JavaScript, Mongodb, Postgresql, Mongoose ORM, Drizzle ORM, Prisma ORM**
+- 
+- 📫 How to reach me **dhanamcse282@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

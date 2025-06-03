@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dhanalakshmi-murugan/](https://www.linkedin.com/in/dhanalakshmi-murugan/)
 
 - 💬 Ask me about **Node js, Nuxt-Nitro framework, Nest js, TypeScript, JavaScript, Mongodb, Postgresql, Mongoose ORM, Drizzle ORM, Prisma ORM**
-- 
+
 - 📫 How to reach me **dhanamcse282@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
